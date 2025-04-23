@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Uno" width="40" height="40"/>
+     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
 ### 👨‍💻 Published Projects
@@ -55,5 +56,5 @@
 </p>
 <br clear="both">
 
-![snake gif](https://github.com/paedDev/paedDev/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/paedDev/paedDev/blob/output/github-snake.svg)
 
