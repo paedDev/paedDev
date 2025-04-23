@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Noel S. Paed</h1>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h3 align="center">A passionate developer currently learning and working with the MERN Stack.</h3>
 
 <p align="center">
