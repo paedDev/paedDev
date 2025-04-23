@@ -15,10 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=paeddev&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paeddev&" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -34,20 +30,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Uno" width="40" height="40"/>
-
-
-
 </p>
-
----
 
 ### 👨‍💻 Published Projects
 
 - [Petition Voting System](https://petition-system-in-school-nnoc.vercel.app/)
 - [Student/Admin Petition Dashboard](https://jannoelpaed.vercel.app/)
 - [Tailwind Practice Site](https://jnpaed-website-tailwindcss.netlify.app/)
-
----
 
 ### 📫 How to reach me
 
@@ -63,3 +52,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jan noel sablaon paed" height="30" width="40" />
   </a>
 </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
