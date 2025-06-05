@@ -46,6 +46,7 @@
 ### 📫 How to reach me
 
 - **Email:** jannoelpaed17@gmail.com
+- **Email:** jannoelpaed27@gmail.com
 
 ### 🤝 Connect with me
 
