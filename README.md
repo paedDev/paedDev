@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan Noel S. Paed, a Computer Engineering Student</h1>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 <h3 align="center">A passionate developer currently learning and working with Laravel and React.</h3>
 
 <p align="center">
