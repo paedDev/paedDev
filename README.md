@@ -38,6 +38,7 @@
 
 ### 👨‍💻 Published Projects
 
+- [Portfolio V3](https://portfolio-v3-six-orcin.vercel.app/)
 - [Portfolio](https://portfolio-two-ruddy-23.vercel.app/)
 - [Petition Voting System](https://petition-system-in-school-nnoc.vercel.app/)
 - [Student/Admin Petition Dashboard](https://jannoelpaed.vercel.app/)
